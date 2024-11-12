@@ -30,7 +30,7 @@ By using Docker for containerization and Kubernetes for orchestration, you can d
 
 ## 📖 **Blog 2: Building Scalable Kubernetes Applications with EKS Node Groups**
 
-**Link:** [https://medium.com/@hamdanali051/building-scalable-kubernetes-applications-with-eks-node-groups-dbb36854c3f7](#)
+**Link:** https://medium.com/@hamdanali051/building-scalable-kubernetes-applications-with-eks-node-groups-dbb36854c3f7
 
 **Summary:**
 
