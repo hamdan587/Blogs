@@ -1,5 +1,5 @@
 
-# **Summaries of Blog**
+# **Summary of Blogs**
 
 ## 📖 **Blog 1: Building a Scalable Microservices Architecture Using Docker**
 
