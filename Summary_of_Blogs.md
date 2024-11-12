@@ -3,7 +3,7 @@
 
 ## 📖 **Blog 1: Building a Scalable Microservices Architecture Using Docker**
 
-**Link:** [https://medium.com/@hamdanali051/how-to-build-a-scalable-microservices-architecture-using-docker-d0fef097d917](#)
+**Link:** https://medium.com/@hamdanali051/how-to-build-a-scalable-microservices-architecture-using-docker-d0fef097d917
 
 **Summary:**
 
