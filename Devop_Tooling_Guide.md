@@ -1,5 +1,5 @@
 
-# 🚀 Automating Unit Testing with GitHub Actions in Personal Task Manager
+# 🚀 Automating Unit Testing with GitHub Actions
 
 GitHub Actions for automated testing is a powerful tool for ensuring code integrity. In this guide, I'll explain how I automated the unit testing process for my **Flask-based** web app, **Personal Task Manager**, using GitHub Actions. This setup automatically runs tests on every push or pull request to ensure that any changes to the codebase don't break functionality.
 
