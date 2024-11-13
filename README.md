@@ -1,14 +1,13 @@
-
-# DevOps Learning Journey 🚀
+# My DevOps Learning Journey 🚀
 
 Welcome to my DevOps Journey repository! This space is dedicated to documenting my path through the world of DevOps, sharing insights, and showcasing practical applications using various DevOps tools.
 
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Documentation & Insights](#insights)
-   - [DevOps Learning Journey](#devops-learning-journey)
-   - [Summary of Blogs](#summary-of-blogs)
+2. [Guides and Summaries](#guides-and-summaries)
+   - [DevOps Learning Journey Guide](#devops-learning-journey-guide)
+   - [Blog Summary](#blog-summary)
    - [DevOps Tooling Guide](#devops-tooling-guide)
 3. [Contact](#contact)
 
@@ -18,18 +17,18 @@ This repository contains documentation, guides, and project samples demonstratin
 
 ## Guides and Summaries 📚
 
-### DevOps Learning Journey
-A comprehensive guide summarizing my journey in learning DevOps, step-by-step, with links to resources, projects, and detailed explanations.
+### DevOps Learning Journey Guide
+A comprehensive guide summarizing my journey in learning DevOps.
 
 👉 **[Read the DevOps Learning Journey Guide](./Guide_DevOps_Learning_Journey.md)**
 
-### Summary of Blogs
+### Blog Summary
 Here you'll find a concise summary of my recent blog posts related to DevOps, covering key takeaways and important insights.
 
 👉 **[Read the Blog Summary](./Summary_of_Blogs.md)**
 
 ### DevOps Tooling Guide
-An in-depth guide that covers essential DevOps tools, their setup, and best practices. Perfect for anyone starting out or looking to expand their toolkit.
+Learn how I automated unit testing for my Flask-based Personal Task Manager app using GitHub Actions. This setup ensures smooth code integration by automatically running tests with every push or pull request, helping maintain code integrity.
 
 👉 **[Read the DevOps Tooling Guide](./Devop_Tooling_Guide.md)**
 
