@@ -59,14 +59,6 @@ The status of the tests can be tracked in the **Actions** tab of the GitHub repo
 
 ### ![Success Test Screenshot](https://github.com/hamdan587/Devops-Course-2024/blob/main/GithubAction.png)
 
-## ✅ Running Tests Locally
-
-To run the tests locally, use this command:
-
-```bash
-pytest tests/test_task_manager.py
-```
-
 ## 💡 Key Takeaways
 
 Through this small project, I’ve learned a great deal about how **DevOps concepts** like **GitHub Actions** can be leveraged to automate repetitive tasks like testing. Automation increases efficiency, scalability, and reliability—making workflows smoother and more error-free. I'm excited to continue learning and improving in this field, as automation and DevOps practices are essential to modern software development.
